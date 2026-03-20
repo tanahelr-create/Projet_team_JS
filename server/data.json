@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "word": "React",
+    "definition": "Bibliothèque JavaScript pour créer des interfaces utilisateur basées sur des composants.",
+    "category": "Frontend"
+  },
+  {
+    "id": "2",
+    "word": "Vue.js",
+    "definition": "Framework progressif pour construire des interfaces utilisateur.",
+    "category": "Frontend"
+  },
+  {
+    "id": "3",
+    "word": "Node.js",
+    "definition": "Environnement d'exécution JavaScript côté serveur.",
+    "category": "Backend"
+  },
+  {
+    "id": "4",
+    "word": "API REST",
+    "definition": "Style d'architecture pour les services web utilisant les méthodes HTTP.",
+    "category": "Backend"
+  },
+  {
+    "id": "5",
+    "word": "Virtual DOM",
+    "definition": "Représentation légère du DOM réel utilisée pour optimiser les performances.",
+    "category": "Frontend"
+  },
+  {
+    "id": "6",
+    "word": "Vite",
+    "definition": "Outil de construction (build tool) ultra-rapide pour le développement web moderne.",
+    "category": "Général"
+  },
+  {
+    "id": "7",
+    "word": "TypeScript",
+    "definition": "Sur-ensemble typé de JavaScript qui se compile en JavaScript simple.",
+    "category": "Général"
+  },
+  {
+    "id": "8",
+    "word": "CORS",
+    "definition": "Cross-Origin Resource Sharing : un mécanisme de sécurité pour autoriser les requêtes entre domaines différents.",
+    "category": "Backend"
+  }
+]
